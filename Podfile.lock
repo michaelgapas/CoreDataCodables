@@ -1,0 +1,20 @@
+PODS:
+  - ReachabilitySwift (5.0.0)
+  - SkeletonView (1.8.7)
+
+DEPENDENCIES:
+  - ReachabilitySwift
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SkeletonView: ba5370f41280b2f0a76918bb143c1294232bb4f4
+
+PODFILE CHECKSUM: 232331eb2583007154ff5f43e672407a0218f982
+
+COCOAPODS: 1.8.4

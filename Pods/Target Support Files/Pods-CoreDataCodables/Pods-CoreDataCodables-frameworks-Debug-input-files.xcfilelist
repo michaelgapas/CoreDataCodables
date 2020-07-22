@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-CoreDataCodables/Pods-CoreDataCodables-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SkeletonView/SkeletonView.framework
